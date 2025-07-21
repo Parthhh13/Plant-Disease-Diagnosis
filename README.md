@@ -1,4 +1,4 @@
-# Plant Disease Detection – Project README
+# Plant Disease Diagnosis
 
 ## Overview
 
