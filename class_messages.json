@@ -1,0 +1,179 @@
+{
+    
+    "Apple___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Maintain regular observation."
+    },
+    "Apple___black_rot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove and destroy infected branches and fruit. Apply fungicides early and maintain orchard sanitation."
+    },
+    "Apple___scab": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Apply recommended fungicides at bud-break. Rake and remove fallen leaves. Use resistant varieties if available."
+    },
+    "Apple___rust": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove nearby junipers (alternate host), prune, and apply fungicides at first symptoms."
+    },
+
+   
+    "Blueberry___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Keep monitoring."
+    },
+
+    
+    "Cherry___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Maintain standard care."
+    },
+    "Cherry___Powdery_mildew": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove heavily infected leaves. Apply fungicides as needed. Increase air circulation."
+    },
+
+   
+    "Corn___Cercospora_leaf_spot_Gray_leaf_spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Use resistant hybrids. Apply fungicides if disease pressure is high. Practice crop rotation."
+    },
+    "Corn___Common_rust": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Plant resistant varieties. Fungicide applications can reduce severe outbreaks."
+    },
+    "Corn___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Keep monitoring."
+    },
+    "Corn___Northern_Leaf_Blight": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Use crop rotation and hybrids with resistance genes. Apply fungicides if necessary."
+    },
+
+    
+    "Grape___Black_rot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Prune infected tissues. Apply fungicides early in the season. Remove fallen leaves and fruit."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "No effective cure. Remove and destroy infected vines. Avoid wounding during pruning."
+    },
+    "Grape___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Keep monitoring."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove and destroy symptomatic leaves. Apply fungicides as recommended."
+    },
+
+   
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "No cure available. Remove and destroy affected trees. Control psyllid vectors aggressively."
+    },
+
+    
+    "Peach___Bacterial_spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove and destroy affected fruit/twigs. Apply bactericides as needed. Plant resistant varieties."
+    },
+    "Peach___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Keep monitoring."
+    },
+
+   
+    "Pepper_bell___Bacterial_spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Apply copper-based sprays. Remove infected plants and plant debris. Use certified seeds."
+    },
+    "Pepper_bell___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Keep observing."
+    },
+
+    
+    "Potato___Early_blight": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove infected leaves. Apply fungicides. Rotate crops annually."
+    },
+    "Potato___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Maintain routine care."
+    },
+    "Potato___Late_blight": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "Immediately remove and destroy infected plants. Avoid overhead watering. Rotate with non-host crops."
+    },
+
+   
+    "Raspberry___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Maintain regular care."
+    },
+
+   
+    "Soybean___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Monitor through the season."
+    },
+
+   
+    "Squash___Powdery_mildew": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove and destroy heavily infected leaves. Use fungicides as recommended. Increase spacing for airflow."
+    },
+
+    "Strawberry___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Regular surveillance encouraged."
+    },
+    "Strawberry___Leaf_scorch": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove infected plants. Use resistant varieties where possible. Apply fungicides if needed."
+    },
+
+    "Tomato___Bacterial_spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove symptomatic leaves. Use copper-based bactericides. Use certified, disease-free seeds."
+    },
+    "Tomato___Early_blight": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove lower infected leaves. Apply fungicides regularly during humid periods."
+    },
+    "Tomato___healthy": {
+        "status": "Healthy",
+        "message": "No action needed. Routine observation suggested."
+    },
+    "Tomato___Late_blight": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "Remove and destroy all affected plants immediately. Disinfect tools and avoid replanting in affected soil."
+    },
+    "Tomato___Leaf_Mold": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Increase air movement. Apply fungicides as soon as symptoms are detected."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Remove infected foliage. Apply fungicides and avoid overhead watering."
+    },
+    "Tomato___Spider_mites_Two_spotted_spider_mite": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Use miticides if necessary. Increase humidity; remove severely affected plants."
+    },
+    "Tomato___Target_Spot": {
+        "status": "Medium Diseased (Curable)",
+        "message": "Apply approved fungicides. Practice crop rotation with non-host plants."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "Remove and destroy infected plants. Disinfect tools after each use."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "status": "Extremely Diseased (Incurable)",
+        "message": "Remove affected plants, control whitefly populations, use resistant cultivars if available."
+    }
+}
