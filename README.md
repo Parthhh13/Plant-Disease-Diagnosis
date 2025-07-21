@@ -61,12 +61,6 @@ Note: Some files are not pushed on github, below is the project structure on my 
 ├── Plant Dataset Images/       # Folder containing PlantVillage dataset images
 ```
 
-## Demo
-
-Below is a preview of the Streamlit app interface:
-
-`<img src="Streamlit Demo.png" alt="Streamlit Demo" width="600"/>`
-
 ## Installation
 
 1. **Clone the repository**
@@ -98,9 +92,12 @@ Below is a preview of the Streamlit app interface:
   ```
 * Upload a single leaf image through the UI. The app will display the predicted disease/health class and confidence.
 
-*Demo:*
 
-![Streamlit Demo](Streamlit Demo.png)
+## Demo
+
+Below is a preview of the Streamlit app interface:
+
+![Streamlit Demo](Streamlit%20Demo.png)
 
 ## Model Details
 
